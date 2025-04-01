@@ -27,7 +27,7 @@
 - 📲 85% de adopción entre pequeños agricultores
  
 ## 👥 Equipo Deepseekers
-| Rol	Integrante	Habilidad Clave: |
+
 | Rol | Nombre | Accion |
 |------|-----------|-------|
 |  **🧠 Líder** | Guillermo Cardenas | Coordinación y Modelos CNN |
