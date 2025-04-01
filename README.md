@@ -27,14 +27,15 @@
 - 📲 85% de adopción entre pequeños agricultores
  
 ## 👥 Equipo Deepseekers
-Rol	Integrante	Habilidad Clave
-🧠 Líder	Guillermo Cardenas	Coordinación
-📊 Científico de Datos	Sebastián Mata	Modelos CNN
-💻 Ingeniero de SW	Johnny Diaz	Backend
-🎨 UX Designer	Andres Ponnefz	Interfaz Web
+| Rol	Integrante	Habilidad Clave: |
+| Rol | Nombre | Accion |
+|------|-----------|-------|
+|  **🧠 Líder** | Guillermo Cardenas | Coordinación y Modelos CNN |
+| **📊 Científico de Datos** |  Johnny Diaz | Cienca de datos y Modelos CNN |
+| **💻 Ingeniero de SW** | Sebastian Mata | Backend |
+| **🎨 UX Designer** | Sebastian Zabala | Interfaz Web |
 
 ## 🌍 Próximos Pasos
-
 - 🔄 Incluir más cultivos (banano 🍌, café ☕)
 - 📱 App móvil nativa
 - 🗣️ Sistema de alertas comunitarias
